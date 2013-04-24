@@ -1,0 +1,51 @@
+# new Glitch(); – 2. Tag
+
+## roots.cx, jQuery & das Glitch
+
+
+1) Roots.cx
+
+  * [roots.cx]
+  * Install `roots`
+  * Neues roots Project zum Testen
+  * Übersicht über die Projekt-Strukur
+  * Watch, Edit & Happy
+  * `require` jQuery und Andere
+
+
+2) Sublime Tips
+
+  * Goto anything
+  * Stylus Package?
+  * Browse Symbols
+
+
+3) jQuery
+
+  * Website: Find & download [jQuery.com][jquerysite]
+  * API Website – [API.jQuery.com][jqueryapi]
+
+
+4) jQuery!
+
+  * $-Magic und `$ ->`
+  * Selector Kung Fu
+  * `.offset()` vs `.position()`
+  * Event Handling – `on`/`off`/`$.trigger`
+  * Effekte – Cool!
+    * Schweizer `.animate ...` Taschenmesser
+    * Frame basierte Animation
+
+
+5) Programmier Strategien – Nachtrag
+
+  * Rekursive Funktionen
+  * setTimeout
+  * (Perlin Noise)
+
+
+****
+
+[roots.cx]:   http://roots.cx
+[jquerysite]: http://jquery.com
+[jqueryapi]:  http://api.jquery.com

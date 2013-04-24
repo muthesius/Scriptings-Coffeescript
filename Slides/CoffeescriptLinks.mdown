@@ -1,0 +1,36 @@
+# Coffeescript Links
+
+* http://coffeescript.org/
+* https://github.com/jashkenas/coffee-script/wiki
+* http://roots.cx/
+
+## Tutorial & freie (online) Bücher
+* http://coffeescriptcookbook.com/
+* http://net.tutsplus.com/tutorials/javascript-ajax/rocking-out-with-coffeescript/
+* http://www.cheatography.com/dimitrios/cheat-sheets/coffeescript-cheat-sheet/
+* http://arcturo.github.io/library/coffeescript/
+* http://autotelicum.github.io/Smooth-CoffeeScript/interactive/interactive-coffeescript.html
+* http://autotelicum.github.io/Smooth-CoffeeScript/literate/js-intro.html
+
+## Tools
+* http://mac.github.com/
+* http://nodejs.org/
+* http://js2coffee.org/
+* http://www.sublimetext.com/
+* http://wbond.net/sublime_packages/package_control/installation
+* http://roots.cx/#installation
+* https://github.com/jashkenas/coffee-script-tmbundle
+* https://github.com/Xavura/CoffeeScript-Sublime-Plugin
+
+
+## Terminal in OS X
+* http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
+* http://mac.tutsplus.com/tutorials/terminal/navigating-the-terminal-a-gentle-introduction/
+
+
+## Aufwärmübung(en)
+
+* https://gist.github.com/jens-a-e/5427715/265c1985d3bcbf395857162d5db3ed4eaddfa59a
+* https://gist.github.com/jens-a-e/5427715/e6531f5a636f9ee0636d824fe8a9390fb6244f75
+* https://gist.github.com/jens-a-e/5427715/bf42ce93f0bf7a52f85e6771d77f4a03424f8d87
+* https://gist.github.com/jens-a-e/5427715/f53ec4181a4b4d1b8125502ca5434507b7a734c3
